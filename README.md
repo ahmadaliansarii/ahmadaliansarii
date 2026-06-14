@@ -242,16 +242,6 @@ Implemented an AI opponent with strategic gameplay enhancements including undo f
 
 </div>
 
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmadaliansarii&theme=discord&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
 <!-- ---
 
 # Contribution Activity
