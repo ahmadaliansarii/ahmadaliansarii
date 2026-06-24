@@ -7,7 +7,7 @@
 <br/>
 
 ![FAST](https://img.shields.io/badge/FAST--NUCES-BSCS-6D28D9?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-3.23%2F4.00-7C3AED?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-3.28%2F4.00-7C3AED?style=for-the-badge)
 ![Graduation](https://img.shields.io/badge/Graduation-2026-8B5CF6?style=for-the-badge)
 ![Pakistan](https://img.shields.io/badge/Karachi-Pakistan-4F46E5?style=for-the-badge)
 
